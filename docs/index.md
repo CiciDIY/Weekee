@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+#DIYelectronics Wiki page
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
 
-## Commands
+|DIY I3 printer|Complex Ben10|
+|---|---|
+|![Screenshot](img/diy3dprinter.jpg)|![Screenshot](img/diy3dprinter.jpg)|
+|[Build Documentation](builddoc.md)|[pdf Ben10 build](buildthing.pdf)|
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+![](img/diyelectronics.jpg)
 
-## Project layout
+* `Ben9.5` - Comes with Batteries
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        MkLorum  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+		Batteries actually not included

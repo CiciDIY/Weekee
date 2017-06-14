@@ -1,8 +1,13 @@
-site_name: Weekee
+site_name: Wiki
 pages:
     - Home: index.md
-    - About: about.md
-    - aboutindex: aboutindex.md
+    - Prusa i3: builddoc.md
 theme: windmill
+extra: 
+    -extra.logo: docs/img/diyelectronics.jpg
+extra_css: [extra.css]
+
+
+
 
 
